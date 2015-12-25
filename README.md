@@ -1,7 +1,7 @@
 # freeknowledge
 Free online courses
 
-<h4>Sketch</h4>
+<h4>💎Sketch</h4>
 <a href="http://webdesignledger.com/sketch-3-design-tutorials#sthash.twGm4DJx.dpbs">38 Best Sketch 3 Design Tutorials</a>
 <br>
 <a href="https://www.youtube.com/user/learnsketch/videos?sort=da&view=0&flow=grid">Joseph from LearnSketch.com</a>
@@ -32,7 +32,7 @@ Sketch App Tutorial Series by Marc Andrew
 <a href="https://designcode.io/sketch-plugins">Plugins</a>
 
 
-<h4>Programming</h4>
+<h4>💻Programming</h4>
 <a href="https://www.udacity.com/course/intro-to-html-and-css--ud304">Intro to HTML and CSS</a>
 <br>
 <a href="https://www.udacity.com/course/responsive-web-design-fundamentals--ud893">Responsive Web Design Fundamentals</a>
