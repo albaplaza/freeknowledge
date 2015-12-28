@@ -35,6 +35,7 @@ Sketch App Tutorial Series by Marc Andrew
 
 <h4>💻Programming</h4>
 <a href="http://codecademy.com">Codecademy</a>
+<br>
 <a href="https://www.udacity.com/course/intro-to-html-and-css--ud304">Intro to HTML and CSS</a>
 <br>
 <a href="https://www.udacity.com/course/responsive-web-design-fundamentals--ud893">Responsive Web Design Fundamentals</a>
